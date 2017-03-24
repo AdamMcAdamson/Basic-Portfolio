@@ -169,7 +169,7 @@ a {
 	margin-bottom: 24px;
 	border-style: solid;
 	border-color: #dddddd;
-	border-width: 2px;
+	border-bottom-width: 2px;
 }
 
 .article-img {
